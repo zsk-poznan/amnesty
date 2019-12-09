@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: 'Oswald', sans-serif;
+}
+body {
+  width: 100vw;
+  height: 100vh;
+  background: yellow;
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
